@@ -1,4 +1,4 @@
 BookEmporium
 ============
 
-Program to house books
+Program to house books and more
